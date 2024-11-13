@@ -1,2 +1,2 @@
 #Primeiro Projeto no GIT
-#Calculadora
+#Este é uma arquivo de calculadora em Python
